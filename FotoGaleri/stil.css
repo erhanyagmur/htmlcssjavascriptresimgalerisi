@@ -1,0 +1,78 @@
+#container
+{
+	border:1px solid #000;
+	width:500px; height:500px;
+	background-color:#CCC;
+	margin:0 auto;
+}
+#galeri{
+	position:relative;
+	width:300px;
+	height:300px;
+	margin-bottom:10px;
+	margin:0 auto;
+	border:1px solid #000;
+}
+#galeri > img{
+	width:300px;
+	height:300px;
+	position:absolute;
+	left:0px;
+	right:0px;
+}
+#resimler{
+	border:1px solid #000;
+	width:500px;height:150px;
+	background-color:#CCC;
+	
+}
+#img1{
+	border:1px solid #000;
+	width:95px; height:150px;
+	background-color:#66F;
+	background-image:url(Resim/kartal1.jpg);
+	background-size:cover;
+	background-position:center;
+	float:left;
+	margin-left:2px;
+}
+#img2{
+	border:1px solid #000;
+	width:95px; height:150px;
+	background-color:#66F;
+	background-image:url(Resim/kartal2.jpg);
+	background-size:cover;
+	background-position:center;
+	float:left;
+	margin-left:2px;
+}
+#img3{
+	border:1px solid #000;
+	width:95px; height:150px;
+	background-color:#66F;
+	background-image:url(Resim/kartal3.jpg);
+	background-size:cover;
+	background-position:center;
+	float:left;
+	margin-left:2px;
+}
+#img4{
+	border:1px solid #000;
+	width:95px; height:150px;
+	background-color:#66F;
+	background-image:url(Resim/kartal4.jpg);
+	background-size:cover;
+	background-position:center;
+	float:left;
+	margin-left:2px;
+}
+#img5{
+	border:1px solid #000;
+	width:95px; height:150px;
+	background-color:#66F;
+	background-image:url(Resim/kartal5.jpg);
+	background-size:cover;
+	background-position:center;
+	float:left;
+	margin-left:2px;
+}
